@@ -20,3 +20,6 @@ This project demonstrates practical Git and GitHub workflows for DevSecOps.
 
 This repository demonstrates Git, GitHub, and DevSecOps version control practices.
 
+## Development Tools
+
+This project uses GitHub Desktop and Visual Studio Code for graphical Git operations.
