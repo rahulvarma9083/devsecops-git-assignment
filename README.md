@@ -11,3 +11,7 @@ version control and collaborative Git workflows.
 ## Security
 
 The application performs basic configuration and input security checks.
+
+## Development
+
+This project demonstrates practical Git and GitHub workflows for DevSecOps.
